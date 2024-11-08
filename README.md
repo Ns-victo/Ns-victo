@@ -6,7 +6,18 @@
 
 ###
 
-<p align="left">Estudante de Engenharia da Computação e Tecnólogo em Análise e Desenvolvimento de Sistemas apaixonado por programação e inovação. Busco me especializar na criação de sistemas para PC e mobile, explorando o mundo da tecnologia para aprender, colaborar e criar soluções incríveis.</p>
+👋 Olá, sou Victor Nunes — Desenvolvedor Full Stack | Python Enthusiast 🐍
+
+🔧 Tecnologias que eu uso:
+
+<p>Python 🐍: Apaixonado por automação, análise de dados e desenvolvimento de aplicações robustas e eficientes.</p>
+<p>Flet 🌱: Focado no desenvolvimento de interfaces desktop dinâmicas com Python, criando aplicativos interativos e de fácil manutenção.</p>
+<p>Flask 🚀: Desenvolvendo APIs leves e eficientes, com foco em integrar sistemas web a aplicativos desktop.</p>
+<p>HTML/CSS 🌐: Utilizo HTML e CSS para criar interfaces visuais modernas e responsivas, principalmente em soluções híbridas.</p>
+<p>SQLite 🗄️: Trabalhando com bancos de dados leves e rápidos, para garantir a performance de aplicações desktop com armazenamento local.</p>
+<p>💻 O que estou criando: Atualmente, estou trabalhando em aplicações desktop utilizando Flet e Python, criando interfaces intuitivas e responsivas para melhorar a experiência do usuário. Estou focado em sistemas empresariais e ferramentas internas que permitem agilidade e escalabilidade, tudo dentro de um ambiente desktop.</p>
+
+<p>🌱 Sempre aprendendo: Estou sempre em busca de novas técnicas e frameworks que melhorem a produtividade e a performance de aplicações desktop com Python, além de explorar novas possibilidades de integração entre diferentes plataformas.</p>
 
 ###
 
