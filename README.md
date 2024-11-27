@@ -6,7 +6,7 @@
 
 ###
 
-👋 Olá, sou Victor Nunes — Desenvolvedor Full Stack | Python Enthusiast 🐍
+👋 Olá, sou Victor Nunes — Desenvolvedor de Aplicativos | Python Enthusiast 🐍
 
 🔧 Tecnologias que eu uso:
 
