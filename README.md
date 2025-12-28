@@ -2,22 +2,35 @@
 
 ###
 
-<h3 align="left">Sobre  mim</h3>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
-👋 Olá, sou Victor Nunes — Desenvolvedor de Aplicativos | Python Enthusiast 🐍
+👋 Olá, sou Victor Nunes — Desenvolvedor em formação focado em aplicações web e mobile 🚀
 
 🔧 Tecnologias que eu uso:
 
-<p>Python 🐍: Apaixonado por automação, análise de dados e desenvolvimento de aplicações robustas e eficientes.</p>
-<p>Flet 🌱: Focado no desenvolvimento de interfaces desktop dinâmicas com Python, criando aplicativos interativos e de fácil manutenção.</p>
-<p>Flask 🚀: Desenvolvendo APIs leves e eficientes, com foco em integrar sistemas web a aplicativos desktop.</p>
-<p>HTML/CSS 🌐: Utilizo HTML e CSS para criar interfaces visuais modernas e responsivas, principalmente em soluções híbridas.</p>
-<p>SQLite 🗄️: Trabalhando com bancos de dados leves e rápidos, para garantir a performance de aplicações desktop com armazenamento local.</p>
-<p>💻 O que estou criando: Atualmente, estou trabalhando em aplicações desktop utilizando Flet e Python, criando interfaces intuitivas e responsivas para melhorar a experiência do usuário. Estou focado em sistemas empresariais e ferramentas internas que permitem agilidade e escalabilidade, tudo dentro de um ambiente desktop.</p>
+<p><strong>Python 🐍</strong>: Utilizo Python para desenvolvimento backend, automações e construção de aplicações eficientes e bem estruturadas.</p>
 
-<p>🌱 Sempre aprendendo: Estou sempre em busca de novas técnicas e frameworks que melhorem a produtividade e a performance de aplicações desktop com Python, além de explorar novas possibilidades de integração entre diferentes plataformas.</p>
+<p><strong>JavaScript ⚡</strong>: Trabalho com JavaScript para criar aplicações dinâmicas, integrando frontend e backend de forma fluida.</p>
+
+<p><strong>React ⚛️</strong>: Desenvolvimento de interfaces modernas e reativas, com foco em componentização, performance e experiência do usuário.</p>
+
+<p><strong>HTML & CSS 🌐🎨</strong>: Criação de interfaces responsivas, organizadas e acessíveis para aplicações web.</p>
+
+<p><strong>Tailwind CSS 💨</strong>: Utilizo Tailwind para acelerar o desenvolvimento de layouts modernos e consistentes.</p>
+
+<p><strong>Firebase 🔥</strong>: Uso Firebase para autenticação, banco de dados e integração rápida de funcionalidades backend.</p>
+
+<p><strong>Supabase ⚡</strong>: Exploro Supabase como backend open source, utilizando banco de dados SQL e autenticação.</p>
+
+<p><strong>SQLite 🗄️</strong>: Trabalho com bancos de dados leves para aplicações simples, locais ou de pequeno porte.</p>
+
+<p><strong>FlutterFlow 📲</strong>: Desenvolvimento de aplicações mobile e web com foco em rapidez de entrega e validação de ideias.</p>
+
+<p>💻 <strong>O que estou criando:</strong> Atualmente, estou desenvolvendo projetos web e mobile, aplicando diferentes tecnologias para fortalecer minha base como desenvolvedor, sempre focando em código organizado, escalável e funcional.</p>
+
+<p>🌱 <strong>Sempre aprendendo:</strong> Estou em constante evolução, estudando novas ferramentas, aprimorando boas práticas e evoluindo um pouco todos os dias na jornada de desenvolvedor.</p>
 
 ###
 
@@ -26,22 +39,30 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ns-victo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ns-victo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=aura&hide_border=false&order=2" height="125" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ns-victo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ns-victo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="125" alt="languages graph" />
 </div>
 
 ###
